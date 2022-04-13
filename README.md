@@ -11,7 +11,14 @@
         "HTML", "CSS", "JavaScript", "Python", "R", "Java", "MySQL"
         ]
 
-<div>
+<div>   
+<style>
+        .logos {
+        display: flex;
+        justify-content: space-around;
+        margin: 40px 0;
+    }
+</style>
 <div class = "logos">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="44" height="44">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="44" height="44">
@@ -21,11 +28,20 @@
 <img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="44" height="44">
 </div>
+</div>
 
     Tools = [
         "Git", "React", "Vue", "Figma", "Node.js"
         ]
 
+<div>
+<style>
+        .logos {
+        display: flex;
+        justify-content: space-around;
+        margin: 40px 0;
+    }
+</style>
 <div class = "logos">
 <img src = "https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="44" height="44">
@@ -33,22 +49,10 @@
 <img src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="44" height="44">
 </div>
-
-<h3 class="tittle">Social media:</h3>
-
-<div class = "redes">
-<a href="https://linkedin.com/in/jorge-aguilar-velázquez-0995761b5" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"></a>
-<a href="https://twitter.com/jorgeagvel" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30" height="30"></a>
-<a href="https://github.com/JorgeToT" target="blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="30" height="30"></a>
-<a href="https://instagram.com/jorge_agvel" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30" height="30"></a>
 </div>
 
+<div>
 <style>
-    .logos {
-        display: flex;
-        justify-content: space-around;
-        margin: 40px 0;
-    }
     .redes {
         display: flex;
         justify-content: center;
@@ -61,4 +65,12 @@
         text-align: center;
     }
 </style>
+<h3 class="tittle">Social media:</h3>
+
+<div class = "redes">
+<a href="https://linkedin.com/in/jorge-aguilar-velázquez-0995761b5" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"></a>
+<a href="https://twitter.com/jorgeagvel" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30" height="30"></a>
+<a href="https://github.com/JorgeToT" target="blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="30" height="30"></a>
+<a href="https://instagram.com/jorge_agvel" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30" height="30"></a>
+</div>
 </div>
