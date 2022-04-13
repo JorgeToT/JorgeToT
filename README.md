@@ -29,9 +29,9 @@
 
 
 <div class = "logos">
+<img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="44" height="44">
-<img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="44" height="44">
 </div>
