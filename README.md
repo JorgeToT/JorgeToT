@@ -11,6 +11,7 @@
         "HTML", "CSS", "JavaScript", "Python", "R", "Java", "MySQL"
         ]
 
+<div>
 <div class = "logos">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="44" height="44">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="44" height="44">
@@ -60,3 +61,4 @@
         text-align: center;
     }
 </style>
+</div>
