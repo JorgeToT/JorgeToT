@@ -24,7 +24,7 @@
 
 
     Tools = [
-        "Git", "React", "Vue", "Figma", "Node.js"
+        "Git", "React", "Vue", "Node.js", "Figma"
         ]
 
 
