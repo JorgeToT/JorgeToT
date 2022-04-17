@@ -8,7 +8,7 @@
 </ul>
 
     Languages = [
-        "HTML", "CSS", "JavaScript", "Python", "R", "Java", "MySQL"
+        "HTML", "CSS", "JavaScript", "Python"
         ]
 
 
@@ -17,21 +17,17 @@
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="44" height="44">
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="" width="44" height="44">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="" width="44" height="44">
-<img src = "https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="44" height="44">
-<img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" width="44" height="44">
-<img src = "https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="44" height="44">
 </div>
 
 
     Tools = [
-        "Git", "React", "Vue", "Node.js", "Figma"
+        "Git", "React", "Node.js", "Figma"
         ]
 
 
 <div class = "logos" align="center">
 <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="44" height="44">
-<img src = "https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="44" height="44">
 </div>
