@@ -1,4 +1,4 @@
-<h1>Hello everyone, I'm Jorge Aguilar</h1>
+<p>Hello everyone, I'm Jorge Aguilar (He/Him)</p>
 <p>I love programming, I am passionate about learn new things and accept new challenges.</p>
 <ul>
     <li>📖 I'm an actuary student.</li>
