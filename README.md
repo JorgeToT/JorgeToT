@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hey everyone, I'm Jorge Aguilar (He/Him).
 
+=======
+<p>Hello everyone, I'm Jorge Aguilar (He/Him)</p>
+>>>>>>> 20fb76573b60a2bc2200f8ed72ecbbf92f936f42
 <p>I love programming, I am passionate about learn new things and accept new challenges.</p>
 <ul>
     <li>🐲 I'm an React developer and a actuary student.</li>
@@ -11,7 +15,11 @@ Hey everyone, I'm Jorge Aguilar (He/Him).
 <br/>
 
     Languages = [
+<<<<<<< HEAD
         "HTML", "CSS", "JavaScript", "Typescript", "Python", "R", "PostgresSQL", "MySQL"
+=======
+        "HTML", "CSS", "JavaScript", "Python"
+>>>>>>> 20fb76573b60a2bc2200f8ed72ecbbf92f936f42
         ]
 
 <div class = "logos" align="center">
@@ -20,17 +28,29 @@ Hey everyone, I'm Jorge Aguilar (He/Him).
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="" width="44" height="44">
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="" width="44" height="44">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="" width="44" height="44">
+<<<<<<< HEAD
 <img src = "https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="44" height="44">
+=======
+>>>>>>> 20fb76573b60a2bc2200f8ed72ecbbf92f936f42
 </div>
 <br>
 
     Tools = [
+<<<<<<< HEAD
          "Node.js", "Git", "Heroku", "Firebase", "GitHub Pages", "GitHub Actions", "Chakra-UI", "Figma"
+=======
+        "Git", "React", "Node.js", "Figma"
+>>>>>>> 20fb76573b60a2bc2200f8ed72ecbbf92f936f42
         ]
 
 <div class = "logos" align="center">
+<<<<<<< HEAD
+=======
+<img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="44" height="44">
+<img src = "https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="44" height="44">
+>>>>>>> 20fb76573b60a2bc2200f8ed72ecbbf92f936f42
 <img src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="44" height="44">
