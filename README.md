@@ -2,7 +2,7 @@ Hey everyone, I'm Jorge Aguilar (He/Him).
 
 <p>I love programming, I am passionate about learn new things and accept new challenges.</p>
 <ul>
-    <li>🐲 I'm an React developer and a actuary student.</li>
+    <li>🐲 I'm an React developer, data analyst and a actuary student.</li>
     <li>💻 I'm a Full-Stack developer.</li>
     <li>🌱 Formed as a Full-Stack developer with Innovaccion Virtual.</li>
 </ul>
