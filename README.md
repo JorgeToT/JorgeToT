@@ -1,26 +1,20 @@
-Hey everyone, I'm Jorge Aguilar (He/Him).
+## Hey! I'm Jorge Aguilar from México.
 
-<p>I love programming, I am passionate about learn new things and accept new challenges.</p>
-<ul>
-    <li>🐲 I'm React developer, Data analyst and Actuary student.</li>
-    <li>💻 I'm a Full-Stack developer.</li>
-    <li>🌱 Formed as a Full-Stack developer with Innovaccion Virtual.</li>
-</ul>
-📫 Here is my email: jorge.agvel@gmail.com
-<br/>
-<br/>
+Next JS Developer | Data Scientist | Actuary student. 🐲
+
+📧 e-mail: jorge.agvel@gmail.com
 
     Languages = [
-        "HTML", "CSS", "JavaScript", "Typescript", "Python", "R", "PostgresSQL", "MySQL"
+        "Python", "R", "HTML", "CSS", "JavaScript", "Typescript", "PostgresSQL", "MySQL"
         ]
 
 <div class = "logos" align="center">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="" width="44" height="44">
+<img src = "https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="44" height="44">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="44" height="44">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="44" height="44">
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="" width="44" height="44">
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="" width="44" height="44">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="" width="44" height="44">
-<img src = "https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="44" height="44">
 </div>
