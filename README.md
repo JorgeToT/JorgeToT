@@ -1,11 +1,9 @@
 ## Hey! I'm Jorge Aguilar from México.
 
-Next JS Developer | Data Scientist | Actuary student. 🐲
-
-📧 e-mail: jorge.agvel@gmail.com
+Full Stack Developer | Next JS Developer | Actuary student
 
     Languages = [
-        "Python", "R", "HTML", "CSS", "JavaScript", "Typescript", "PostgresSQL", "MySQL"
+        "Python", "R", "HTML", "CSS", "JavaScript", "Typescript", "Java", "Spring", "PostgresSQL", "MySQL"
         ]
 
 <div class = "logos" align="center">
@@ -15,13 +13,15 @@ Next JS Developer | Data Scientist | Actuary student. 🐲
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="44" height="44">
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="" width="44" height="44">
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="" width="44" height="44">
+<img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" width="44" height="44">
+<img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="44" height="44">
 </div>
 <br>
 
     Tools = [
-         "Node.js", "Git", "Heroku", "Firebase", "GitHub Pages", "GitHub Actions", "Chakra-UI", "Figma"
+         "Node.js", "Git", "Heroku", "Firebase", "GitHub Pages", "GitHub Actions", "Chakra-UI", "Figma", "Gulp"
         ]
 
 <div class = "logos" align="center">
@@ -32,6 +32,7 @@ Next JS Developer | Data Scientist | Actuary student. 🐲
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width="44" height="44">
 <img src = "https://avatars.githubusercontent.com/u/54212428?v=4" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="44" height="44">
+<img src = "https://upload.vectorlogo.zone/logos/gulpjs/images/858a382c-2ed1-41d2-a5d5-ab7d33b132f5.svg" width="44" height="44">
 </div>
 <br>
 
