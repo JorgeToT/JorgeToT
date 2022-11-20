@@ -3,7 +3,7 @@
 Full Stack Developer | Next JS Developer | Actuary student
 
     Languages = [
-        "Python", "R", "HTML", "CSS", "JavaScript", "Typescript", "Java", "Spring", "PostgresSQL", "MySQL"
+        "Python", "R", "HTML", "CSS", "JavaScript", "Typescript", "Java", "PostgresSQL", "MySQL"
         ]
 
 <div class = "logos" align="center">
@@ -14,14 +14,13 @@ Full Stack Developer | Next JS Developer | Actuary student
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="" width="44" height="44">
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" width="44" height="44">
-<img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="44" height="44">
 </div>
 <br>
 
     Tools = [
-         "Node.js", "Git", "Heroku", "Firebase", "GitHub Pages", "GitHub Actions", "Chakra-UI", "Figma", "Gulp"
+         "Node.js", "Git", "Heroku", "Firebase", "GitHub Pages", "GitHub Actions", "Chakra-UI", "Figma", "Gulp", "Express"
         ]
 
 <div class = "logos" align="center">
@@ -33,18 +32,18 @@ Full Stack Developer | Next JS Developer | Actuary student
 <img src = "https://avatars.githubusercontent.com/u/54212428?v=4" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="44" height="44">
 <img src = "https://upload.vectorlogo.zone/logos/gulpjs/images/858a382c-2ed1-41d2-a5d5-ab7d33b132f5.svg" width="44" height="44">
+<img src = "https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png" width="44" height="44">
 </div>
 <br>
 
     Frameworks = [
-        "React JS", "Next JS", "Vue", "Express"
+        "React JS", "Next JS"", "Spring"
         ]
 
 <div class = "logos" align="center">
 <img src = "https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="44" height="44">
 <img src = "https://media.graphcms.com/VKHHNvEETYqZRkqgjybc" width="44" height="44">
-<img src = "https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="44" height="44">
-<img src = "https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png" width="44" height="44">
+<img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="44" height="44">
 </div>
 <br>
 
