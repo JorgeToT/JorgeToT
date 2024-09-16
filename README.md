@@ -50,6 +50,4 @@ Full Stack Developer | Next JS Developer | Actuary student
 <h3 class="tittle" align="center">Social media:</h3>
 <div class = "redes" align="center">
 <a href="https://linkedin.com/in/jorge-aguilar-velázquez-0995761b5" target="blank" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"></a>
-<a href="https://twitter.com/jorgeagvel" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30" height="30"></a>
-<a href="https://instagram.com/jorge_agvel" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30" height="30"></a>
 </div>
