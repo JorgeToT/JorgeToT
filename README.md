@@ -37,13 +37,15 @@ Full Stack Developer | Next JS Developer | Actuary student
 <br>
 
     Frameworks = [
-        "React JS", "Next JS"", "Spring"
+        "React JS", "Next JS"", "Spring", "Svelte", "Vue 3"
         ]
 
 <div class = "logos" align="center">
 <img src = "https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="44" height="44">
 <img src = "https://media.graphcms.com/VKHHNvEETYqZRkqgjybc" width="44" height="44">
 <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="44" height="44">
+<img src = "https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" width="44" height="44">
+<img src = "https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="44" height="44">
 </div>
 <br>
 
